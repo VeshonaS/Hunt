@@ -1,0 +1,46 @@
+img {
+    width: 150px;
+
+}
+
+#quiet {
+    display: none;
+}
+
+
+#jumpy {
+    width: 200px;
+}
+
+#jumpy2 {
+
+    width: 200px;
+}
+
+#jumpy3 {
+    width: 200px;
+}
+
+.no-see {
+    display: none;
+}
+
+#box {
+    width: 200px;
+}
+
+#game {
+    width: 200px;
+}
+
+#hi {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    border-radius: 50px;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
